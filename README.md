@@ -9,10 +9,12 @@ Análisis de datos elaborado por investigadores y estudiantes del Centro de Inve
 
 Colaboradores:
 
-	- R. García-Salcedo
+	- Dr. Ricardo García-Salcedo
 
-	- I. Gómez-Vargas
+	- Ing. Maria del Rocío Toledo Elizalde
 
-	- R. Medel Esquivel
+	- M. Ricardo Medel Esquivel
 
-	- T. Rivera Montalvo
+	- Dr. Teodoro Rivera Montalvo
+
+	- M. Isidro Gómez Vargas
